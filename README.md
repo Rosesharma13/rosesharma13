@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Rose Sharma
 
-🎓 CSE Graduate with AI Specialization | Rungta College, Bhilai
-🤖 Building intelligent systems at the intersection of AI and Full Stack Development
-🔍 Open to Junior AI Engineer · GenAI Developer · Full Stack AI · NLP Engineer roles
-⚡ I don't just study AI — I build with it!  
+- 🎓 CSE Graduate with AI Specialization | Rungta College, Bhilai
+- 🤖 Building intelligent systems at the intersection of AI and Full Stack Development
+- 🔍 Open to Junior AI Engineer · GenAI Developer · Full Stack AI · NLP Engineer roles
+- ⚡ I don't just study AI — I build with it!  
 
 ---
 
@@ -25,7 +25,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
 
 ---
 
