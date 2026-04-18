@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/rose-sharma13"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rosesharmaa132003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=rosesharma13&color=1a73e8&style=flat"/>
 </p>
 
 ---
