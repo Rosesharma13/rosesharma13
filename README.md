@@ -55,14 +55,13 @@
 - 🤗 Fundamentals of Large Language Models | Hugging Face
 - 📊 Data Analytics Job Simulation | Deloitte / Forage
 - 🤖 AI in Action — GenAI Job Simulation | Vista Equity Partners / Forage
-- 🐍 Python for Data Science | Coursera
+- 📈 GenAI Powered Data Analytics Job Simulation | TATA / Forage
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
-![Rose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rosesharma13&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosesharma13&layout=compact&theme=tokyonight&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rosesharma13&theme=minimal&hide_border=true)
 
 ---
 
