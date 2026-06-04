@@ -1,74 +1,104 @@
-# Hi, I'm Rose Sharma 👋
+<div align="center">
 
-### AI/ML Engineer | LLMs · RAG Pipelines · NLP · Production AI Systems
+# Hi, I'm Rose Sharma 👋
+### AI / ML Engineer · LLMs · RAG · NLP · Python
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rosesharma13.github.io-ff2d78?style=for-the-badge&logo=github)](https://rosesharma13.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rose--sharma13-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rose-sharma13)
+[![Email](https://img.shields.io/badge/Email-rosesharmaa132003@gmail.com-ea4335?style=for-the-badge&logo=gmail)](mailto:rosesharmaa132003@gmail.com)
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE (AI Specialization) — Rungta College of Engineering & Technology, Bhilai
-- 🤖 Building production-grade LLM applications, RAG pipelines, and NLP classifiers
-- 🚀 3 live deployed AI apps on Streamlit
-- 🏅 Azure AZ-900 Certified | Hugging Face LLMs Certified
-- 📬 rosesharmaa132003@gmail.com
-- 💼 Open to Junior AI/ML Engineer · Gen AI Developer · NLP Engineer roles
-- 📍 Bhilai, Chhattisgarh · Open to relocation anywhere in India · Immediate Joiner
+- 🎓 B.Tech CSE (AI Specialization) — Rungta College, Bhilai · 2025
+- 💼 3 AI/ML internships with deployed, production-grade systems
+- 🚀 Immediate joiner · Open to relocation anywhere in India
+- 🏆 Microsoft Azure Fundamentals AZ-900 Certified
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 What I Build
 
-| Category | Skills |
-|---|---|
-| **AI & LLMs** | LangChain · Groq API · Gemini API · Hugging Face · RAG · Prompt Engineering · LangGraph |
-| **ML & NLP** | scikit-learn · XGBoost · NLP · Text Classification · Feature Engineering · Neural Networks |
-| **Languages & DB** | Python · SQL · JavaScript · MySQL · Vector Databases |
-| **Tools & Cloud** | Streamlit · FastAPI · Git · Tableau · Power BI · Azure AZ-900 |
+```python
+skills = {
+    "LLMs & GenAI":   ["LangChain", "Groq API", "Gemini API", "Hugging Face", "RAG", "Prompt Engineering"],
+    "ML & NLP":        ["scikit-learn", "XGBoost", "Naive Bayes", "SVM", "Text Classification"],
+    "Backend & APIs":  ["FastAPI", "Flask", "REST APIs", "SQLite", "MySQL"],
+    "Deployment":      ["Streamlit Cloud", "GitHub Pages"],
+    "Cloud & Tools":   ["Microsoft Azure AZ-900", "Git", "Pandas", "NumPy"],
+}
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Live |
-|---|---|---|---|
-| 🤖 LLM Retail Assistant | RAG-powered shopping assistant — sub-2s response latency across 500+ queries | LangChain · Groq API · Pandas · Streamlit | [▶ Live Demo](https://llm-retail-assistant.streamlit.app) |
-| 🛡️ Fake Domain Detector | NLP phishing classifier — 90%+ accuracy on 1,000+ labeled samples | Python · scikit-learn · NLP · Random Forest | [▶ Live Demo](https://fake-domain-detector-rose.streamlit.app) |
-| 🏠 House Price Predictor | End-to-end ML pipeline — R² 0.60 on California Housing dataset | Linear Regression · scikit-learn · Streamlit | [▶ Live Demo](https://house-price-predictor-rose.streamlit.app) |
-| ⚙️ LLM Data Pipeline | Modular ingestion pipeline — 94.4% chunk success rate, no LangChain dependency | Groq API · FastAPI · Pandas · Tenacity | [GitHub](https://github.com/Rosesharma13/llm-data-pipeline) |
-| 💳 Credit Scoring Model | ML-based credit risk classifier — XGBoost + scikit-learn | Python · XGBoost · scikit-learn · ML | [GitHub](https://github.com/Rosesharma13/CodeAlpha_CreditScoring) |
+### 🏥 [MIRA — Medical Intelligence Robotic Automation](https://github.com/Rosesharma13/mira-health-app)
+> AI-powered patient health prediction platform with structured clinical reports from blood test data
+
+**Tech:** Python · Streamlit · SQLite · Groq API · LLaMA 3.3 · CRUD
+**Live:** [mira-health-app.streamlit.app](https://mira-health-app.streamlit.app)
 
 ---
 
-## 🎓 Internships
+### 🛍️ [LLM Retail Assistant](https://github.com/Rosesharma13/LLM-retail-assistant)
+> Production RAG pipeline for natural language product queries
 
-| Company | Role | Period |
-|---|---|---|
-| **CodeAlpha** | Machine Learning Intern | Apr 2026 – Present |
-| **Codec Technologies** | AI Intern (AICTE Approved) | Apr 2026 – May 2026 |
-| **Maincrafts Technology** | AI/ML Intern | Apr 2026 |
-
----
-
-## 📜 Certifications
-
-- 🏅 Microsoft Azure Fundamentals — AZ-900 | Microsoft
-- 🤗 Fundamentals of Large Language Models | Hugging Face
-- 📊 Data Analytics Job Simulation | Deloitte / Forage
-- 🤖 AI in Action — GenAI Job Simulation | Vista Equity Partners / Forage
-- 📈 GenAI Powered Data Analytics Job Simulation | TATA / Forage
+**Tech:** LangChain · Groq API · Hugging Face · Streamlit · RAG
+**Metrics:** sub-2s latency · 500+ queries · ~25% better accuracy
+**Live:** [llm-retail-assistant.streamlit.app](https://llm-retail-assistant.streamlit.app)
 
 ---
 
-## 📊 Activity
+### 🔐 [Fake Domain Detector](https://github.com/Rosesharma13/Fake-Domain-Detector)
+> NLP-based phishing domain detection classifier
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rosesharma13&theme=minimal&hide_border=true)
+**Tech:** Python · NLP · scikit-learn · Random Forest · SVM
+**Metrics:** 90%+ accuracy · ~15% fewer false positives · 1,000+ samples
+**Live:** [fake-domain-detector-rose.streamlit.app](https://fake-domain-detector-rose.streamlit.app)
 
 ---
 
-## 🌐 Connect With Me
+### ⚙️ [LLM Data Pipeline](https://github.com/Rosesharma13/llm-data-pipeline)
+> Modular AI ingestion pipeline with retry logic and structured JSON output
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rosesharma13.github.io-1A56A0?style=flat&logo=github)](https://rosesharma13.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rose--sharma13-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/rose-sharma13)
-[![Gmail](https://img.shields.io/badge/Gmail-rosesharmaa132003-D14836?style=flat&logo=gmail)](mailto:rosesharmaa132003@gmail.com)
+**Tech:** Groq API · FastAPI · BeautifulSoup · Tenacity · Pandas
+**Metrics:** 94.4% chunk success rate · No LangChain dependency
 
-⭐ Open to work — Junior AI/ML Engineer · Gen AI Developer · NLP Engineer · Prompt Engineer
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rosesharma13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosesharma13&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Issuer | Date |
+|-------------|--------|------|
+| Azure Fundamentals AZ-900 | Microsoft | Dec 2023 |
+| Fundamentals of LLMs | Hugging Face | Apr 2026 |
+| Data Analytics Simulation | Deloitte & Forage | May 2026 |
+| GenAI Job Simulation | Vista Equity Partners & Forage | May 2026 |
+| GenAI Powered Analytics | TATA & Forage | Apr 2026 |
+| AI Internship (AICTE Approved) | Codec Technologies | May 2026 |
+
+---
+
+<div align="center">
+
+**Open to Junior AI/ML, GenAI Developer, and NLP Engineer roles**
+
+📞 +91 8109102515 · 📧 rosesharmaa132003@gmail.com
+
+</div>
