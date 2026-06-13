@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE (AI Specialization) — Rungta College, Bhilai · 2025
-- 💼 3 AI/ML internships with deployed, production-grade systems
+- 💼 AI/ML internships with deployed, production-grade systems
 - 🚀 Immediate joiner · Open to relocation anywhere in India
 - 🏆 Microsoft Azure Fundamentals AZ-900 Certified
 
