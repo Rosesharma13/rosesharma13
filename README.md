@@ -99,6 +99,6 @@ skills = {
 
 **Open to Junior AI/ML, GenAI Developer, and NLP Engineer roles**
 
-📞 +91 8109102515 · 📧 rosesharmaa132003@gmail.com
+📧 rosesharmaa132003@gmail.com
 
 </div>
