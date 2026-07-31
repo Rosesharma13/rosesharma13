@@ -1,91 +1,67 @@
-<div align="center">
-
 # Hi, I'm Rose Sharma 👋
-### AI / ML Engineer · LLMs · RAG · NLP · Python
+**AI/ML Engineer · GenAI Developer · Multi-Agent Systems · LLMs**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rosesharma13.github.io-ff2d78?style=for-the-badge&logo=github)](https://rosesharma13.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rose--sharma13-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rose-sharma13)
-[![Email](https://img.shields.io/badge/Email-rosesharmaa132003@gmail.com-ea4335?style=for-the-badge&logo=gmail)](mailto:rosesharmaa132003@gmail.com)
-
-</div>
+[Portfolio](https://rose-portfolio-one.vercel.app) · [LinkedIn](https://linkedin.com/in/rose-sharma13) · [Email](mailto:rosesharmaa132003@gmail.com)
 
 ---
 
 ## 🧠 About Me
-
 - 🎓 B.Tech CSE (AI Specialization) — Rungta College, Bhilai · 2025
-- 💼 AI/ML internships with deployed, production-grade systems
+- 💼 AI/ML internships building deployed, production-grade multi-agent systems
 - 🚀 Immediate joiner · Open to relocation anywhere in India
-- 🏆 Microsoft Azure Fundamentals AZ-900 Certified
-
----
+- 🏆 Microsoft Azure Fundamentals (AZ-900) Certified
 
 ## 🔥 What I Build
 
 ```python
 skills = {
-    "LLMs & GenAI":   ["LangChain", "Groq API", "Gemini API", "Hugging Face", "RAG", "Prompt Engineering"],
-    "ML & NLP":        ["scikit-learn", "XGBoost", "Naive Bayes", "SVM", "Text Classification"],
-    "Backend & APIs":  ["FastAPI", "Flask", "REST APIs", "SQLite", "MySQL"],
-    "Deployment":      ["Streamlit Cloud", "GitHub Pages"],
-    "Cloud & Tools":   ["Microsoft Azure AZ-900", "Git", "Pandas", "NumPy"],
+    "Agentic AI":       ["LangGraph", "LangChain", "Multi-Agent Orchestration", "Tool-Calling Agents"],
+    "LLMs & GenAI":     ["Groq API", "Gemini API", "Hugging Face", "RAG", "Prompt Engineering"],
+    "ML & NLP":         ["scikit-learn", "XGBoost", "Naive Bayes", "SVM", "Text Classification"],
+    "Backend & APIs":   ["FastAPI", "Flask", "REST APIs", "SQLAlchemy", "PostgreSQL", "SQLite"],
+    "Frontend":         ["React", "Redux Toolkit", "Vite"],
+    "Deployment":       ["Vercel", "Render", "Streamlit Cloud", "GitHub Pages"],
+    "Cloud & Tools":    ["Microsoft Azure AZ-900", "Git", "Pandas", "NumPy"],
 }
 ```
 
----
-
 ## 🚀 Featured Projects
 
-### 🏥 [MIRA — Medical Intelligence Robotic Automation](https://github.com/Rosesharma13/mira-health-app)
-> AI-powered patient health prediction platform with structured clinical reports from blood test data
+### 🏢 Quelvox CRM — Multi-Agent HCP Interaction Platform
+A LangGraph-based agent for pharmaceutical field reps to manage healthcare professional interactions via natural language. The agent handles tool selection dynamically — logging meetings, searching HCP records, editing past entries, classifying sentiment, and generating follow-up recommendations — based on unstructured input.
 
-**Tech:** Python · Streamlit · SQLite · Groq API · LLaMA 3.3 · CRUD
+**Tech:** LangGraph · LangChain · Groq API (LLaMA 3.3 70B) · FastAPI · React · Redux
+**Live:** [quelvox-crm.vercel.app](https://quelvox-crm.vercel.app)
+
+### 🎯 Vyrora AI — Multi-Agent Platform
+A platform with four specialized agents — Research, Document, Planning, and Presentation — each handling a distinct class of task, routed and orchestrated via Groq-powered LLMs.
+
+**Tech:** LangGraph · Groq API · FastAPI · React
+**Live:** [vyrora-ai-agent-platform.vercel.app](https://vyrora-ai-agent-platform.vercel.app)
+
+### 🏥 MIRA — Medical Intelligence Robotic Automation
+AI-powered patient health prediction platform generating structured clinical risk reports from blood test biomarker data.
+
+**Tech:** Python · Streamlit · SQLite · Groq API (LLaMA 3.3) · CRUD
 **Live:** [mira-health-app.streamlit.app](https://mira-health-app.streamlit.app)
 
----
-
-### 🛍️ [LLM Retail Assistant](https://github.com/Rosesharma13/LLM-retail-assistant)
-> Production RAG pipeline for natural language product queries
+### 🛍️ LLM Retail Assistant
+RAG pipeline for natural language product queries over a retail catalog.
 
 **Tech:** LangChain · Groq API · Hugging Face · Streamlit · RAG
-**Metrics:** sub-2s latency · 500+ queries · ~25% better accuracy
 **Live:** [llm-retail-assistant.streamlit.app](https://llm-retail-assistant.streamlit.app)
 
----
-
-### 🔐 [Fake Domain Detector](https://github.com/Rosesharma13/Fake-Domain-Detector)
-> NLP-based phishing domain detection classifier
-
-**Tech:** Python · NLP · scikit-learn · Random Forest · SVM
-**Metrics:** 90%+ accuracy · ~15% fewer false positives · 1,000+ samples
-**Live:** [fake-domain-detector-rose.streamlit.app](https://fake-domain-detector-rose.streamlit.app)
-
----
-
-### ⚙️ [LLM Data Pipeline](https://github.com/Rosesharma13/llm-data-pipeline)
-> Modular AI ingestion pipeline with retry logic and structured JSON output
+### ⚙️ LLM Data Pipeline
+Modular AI ingestion pipeline for text/PDF/URL inputs — chunking, entity extraction, sentiment, and summarization, built without a LangChain dependency, with retry logic via Tenacity.
 
 **Tech:** Groq API · FastAPI · BeautifulSoup · Tenacity · Pandas
-**Metrics:** 94.4% chunk success rate · No LangChain dependency
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rosesharma13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosesharma13&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
 ## 🏅 Certifications
 
 | Certificate | Issuer | Date |
-|-------------|--------|------|
+|---|---|---|
 | Azure Fundamentals AZ-900 | Microsoft | Dec 2023 |
 | Fundamentals of LLMs | Hugging Face | Apr 2026 |
 | Data Analytics Simulation | Deloitte & Forage | May 2026 |
@@ -95,10 +71,6 @@ skills = {
 
 ---
 
-<div align="center">
-
-**Open to Junior AI/ML, GenAI Developer, and NLP Engineer roles**
+**Open to Junior AI/ML, GenAI Developer, and Multi-Agent Systems roles**
 
 📧 rosesharmaa132003@gmail.com
-
-</div>
