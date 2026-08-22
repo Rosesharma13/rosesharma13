@@ -5,72 +5,54 @@
 
 ---
 
-## 🧠 About Me
-- 🎓 B.Tech CSE (AI Specialization) — Rungta College, Bhilai · 2025
+## About Me
+- 🎓 B.Tech CSE (AI Specialization) — Rungta College, Bhilai · 2025 (CGPA 7.09)
+- 🎓 Currently pursuing M.Tech in Data Science — Bhilai Institute of Technology, Durg (2026–Present)
 - 💼 AI/ML internships building deployed, production-grade multi-agent systems
-- 🚀 Immediate joiner · Open to relocation anywhere in India
-- 🏆 Microsoft Azure Fundamentals (AZ-900) Certified
+- Open to: Junior AI/ML Engineer, GenAI Developer, Multi-Agent Systems roles
 
-## 🔥 What I Build
+## Skills
 
-```python
-skills = {
-    "Agentic AI":       ["LangGraph", "LangChain", "Multi-Agent Orchestration", "Tool-Calling Agents"],
-    "LLMs & GenAI":     ["Groq API", "Gemini API", "Hugging Face", "RAG", "Prompt Engineering"],
-    "ML & NLP":         ["scikit-learn", "XGBoost", "Naive Bayes", "SVM", "Text Classification"],
-    "Backend & APIs":   ["FastAPI", "Flask", "REST APIs", "SQLAlchemy", "PostgreSQL", "SQLite"],
-    "Frontend":         ["React", "Redux Toolkit", "Vite"],
-    "Deployment":       ["Vercel", "Render", "Streamlit Cloud", "GitHub Pages"],
-    "Cloud & Tools":    ["Microsoft Azure AZ-900", "Git", "Pandas", "NumPy"],
-}
-```
+| Category | Stack |
+|---|---|
+| Agentic AI | LangGraph, LangChain, Multi-Agent Orchestration, Tool-Calling Agents |
+| LLMs & GenAI | Groq API, Gemini API, Hugging Face, RAG, Prompt Engineering |
+| ML & NLP | scikit-learn, XGBoost, Naive Bayes, SVM, Text Classification |
+| Backend & APIs | FastAPI, Flask, REST APIs, SQLAlchemy, PostgreSQL, SQLite |
+| Frontend | React, Redux Toolkit, Vite |
+| Deployment | Vercel, Render, Streamlit Cloud, GitHub Pages |
+| Cloud & Tools | Microsoft Azure AZ-900, Git, Pandas, NumPy |
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏢 Quelvox CRM — Multi-Agent HCP Interaction Platform
-A LangGraph-based agent for pharmaceutical field reps to manage healthcare professional interactions via natural language. The agent handles tool selection dynamically — logging meetings, searching HCP records, editing past entries, classifying sentiment, and generating follow-up recommendations — based on unstructured input.
-
-**Tech:** LangGraph · LangChain · Groq API (LLaMA 3.3 70B) · FastAPI · React · Redux
-**Live:** [quelvox-crm.vercel.app](https://quelvox-crm.vercel.app)
+### 🏢 Quelvox CRM — Pharma Field-Rep Technical Assessment
+LangGraph multi-agent architecture with 5 specialized AI tools — log interaction, edit, search HCP, suggest follow-up, sentiment analysis — orchestrated by a Groq LLM. React/Redux frontend, FastAPI async backend.
+`LangGraph` `LangChain` `Groq API (LLaMA 3.3 70B)` `FastAPI` `React` `Redux`
+🔗 [Live](https://quelvox-crm.vercel.app)
 
 ### 🎯 Vyrora AI — Multi-Agent Platform
-A platform with four specialized agents — Research, Document, Planning, and Presentation — each handling a distinct class of task, routed and orchestrated via Groq-powered LLMs.
-
-**Tech:** LangGraph · Groq API · FastAPI · React
-**Live:** [vyrora-ai-agent-platform.vercel.app](https://vyrora-ai-agent-platform.vercel.app)
+Four specialized agents — Research, Document, Planning, Presentation — routed and orchestrated via Groq-powered LLMs.
+`LangGraph` `Groq API` `FastAPI` `React`
+🔗 [Live](https://vyrora-ai-agent-platform.vercel.app)
 
 ### 🏥 MIRA — Medical Intelligence Robotic Automation
-AI-powered patient health prediction platform generating structured clinical risk reports from blood test biomarker data.
+Full-stack health prediction platform with CRUD, SQLite storage, and Groq LLaMA 3.3 70B generating clinical risk assessments from biomarker data.
+`Python` `Streamlit` `SQLite` `Groq API (LLaMA 3.3)` `FastAPI`
+🔗 [Live](https://mira-health-app.streamlit.app)
 
-**Tech:** Python · Streamlit · SQLite · Groq API (LLaMA 3.3) · CRUD
-**Live:** [mira-health-app.streamlit.app](https://mira-health-app.streamlit.app)
-
-### 🛍️ LLM Retail Assistant
-RAG pipeline for natural language product queries over a retail catalog.
-
-**Tech:** LangChain · Groq API · Hugging Face · Streamlit · RAG
-**Live:** [llm-retail-assistant.streamlit.app](https://llm-retail-assistant.streamlit.app)
+### 🛍️ LLM Retail Assistant — RAG Pipeline
+Production RAG pipeline for natural language product queries, sub-2s latency across 500+ interactions. LangChain memory chains for multi-turn conversational AI.
+`LangChain` `Groq API` `Hugging Face` `Streamlit` `RAG`
+🔗 [Live](https://llm-retail-assistant.streamlit.app)
 
 ### ⚙️ LLM Data Pipeline
-Modular AI ingestion pipeline for text/PDF/URL inputs — chunking, entity extraction, sentiment, and summarization, built without a LangChain dependency, with retry logic via Tenacity.
+Modular AI ingestion pipeline for text/PDF/URL inputs — chunking, entity extraction, sentiment, summarization. Built without LangChain, retry logic via Tenacity.
+`Groq API` `FastAPI` `BeautifulSoup` `Tenacity` `Pandas`
 
-**Tech:** Groq API · FastAPI · BeautifulSoup · Tenacity · Pandas
-
----
-
-## 🏅 Certifications
-
-| Certificate | Issuer | Date |
-|---|---|---|
-| Azure Fundamentals AZ-900 | Microsoft | Dec 2023 |
-| Fundamentals of LLMs | Hugging Face | Apr 2026 |
-| Data Analytics Simulation | Deloitte & Forage | May 2026 |
-| GenAI Job Simulation | Vista Equity Partners & Forage | May 2026 |
-| GenAI Powered Analytics | TATA & Forage | Apr 2026 |
-| AI Internship (AICTE Approved) | Codec Technologies | May 2026 |
-
----
-
-**Open to Junior AI/ML, GenAI Developer, and Multi-Agent Systems roles**
+## Certifications
+- Microsoft Azure Fundamentals (AZ-900) — Dec 2023
+- Fundamentals of Large Language Models — Hugging Face, Apr 2026
+- AI Skills Fest 2026 (Badge) — Microsoft, June 2026
+- Build a Computer Vision App with Azure Cognitive Services — Microsoft (via Coursera), July 2026
 
 📧 rosesharmaa132003@gmail.com
